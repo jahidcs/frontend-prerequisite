@@ -1,0 +1,47 @@
+/*
+h1 -> Selector
+color -> Property
+red -> value
+{} -> in the braces we will write how we want to styling that is called declaration
+*/
+h1{
+    color: red;
+    font-size: 60px;
+}
+
+p{
+    color: brown;
+    font-size: 18px;
+}
+
+/* 
+class & id
+    in an HTML file we have to use unique id but in case of class we can use multiple class which are same
+*/
+
+div{
+    height: 200px;
+    width: 200px;
+    background: skyblue;
+    margin: 5px;
+}
+
+p{
+    color: blue;
+}
+
+.first-div{
+    height: 300px;
+    width: 300px;
+    background-color: orange
+}
+
+.first-div p{
+    color: white;
+    font-size: 25px;
+}
+
+#third-div{
+    width: 500px;
+    background: green;
+}
