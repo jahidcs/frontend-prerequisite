@@ -16,3 +16,8 @@
 - Preformatted text <pre></pre> [Text in a <pre> element is displayed in a fixed-width font, and the text preserves both spaces and line breaks. The text will be displayed exactly as written in the HTML source code.]
 - break <br>
 - horizontal <hr>
+- italic <i></i> [HTML previous version tags that is supported by HTML5]
+- bold <b></b> [HTML previous version tags that is supported by HTML5]
+- bold <strong></strong> [HTML latest tag for bold text]
+- italic <em></em> [HTML latest tag for italic text]
+- Text highlighting <mark></mark>
