@@ -38,3 +38,13 @@
 - sup and sub tag
   - <p>(a+b)<sup>2</sup> = a <sup>2</sup> + 2ab + b<sup>2</sup></p>
   - <p>log <sub>10</sub></p>
+- quote: blockquote and q tag
+  - <blockquote>This is blockquote tag</blockquote>
+  - <q>This is a quote</q>
+- abbreviation: abbr tag
+  - <p>
+      <abbr title="Hyper Text Markup Language">HTML</abbr> is not a programming
+      language. please hover on HTML
+    </p>
+- address: address tag
+  - <address style="color: tomato">House No 86 Badda, Dhaka 1207</address>
