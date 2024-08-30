@@ -48,3 +48,13 @@
     </p>
 - address: address tag
   - <address style="color: tomato">House No 86 Badda, Dhaka 1207</address>
+- anchor tag
+  - <a href="https://google.com" target="_blank">Google</a>
+- image Tag
+  - <img src="algophinix.png" alt="image" />
+- Table, ordered list, Unordered list
+- inline block elements
+  - <a><abbr><acronym><b><bdo><big><br><button><cite><code><dfn><em><i><img><input><kbd><label><map><object><output><q><samp><script><select><small><span><strong><sub><sup><textarea><time><tt><var>
+- Block Elements
+  - <address><article><aside><blockquote><canvas><dd><div><dl><dt><fieldset><figcaption><figure><footer><form><h1>-<h6><header><hr><li><main><nav><noscript><ol><p><pre><section><table><tfoot><ul><video>
+- In HTML, id name will be unique, class name can be duplicate
